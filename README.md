@@ -41,6 +41,6 @@ Each notebook contains detailed steps for model training, fine-tuning, and infer
 We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
 
 -Rohit Gomladu
--Mohit Methi
+-Pankaj Sharma
 - Email: [rm73336136@gmail.com](rm73336136@gmail.com)
-- Email: [mohitmethi1000@gmail.com](mohitmethi1000@gmail.com)
+- Email: [mohitmethi1000@gmail.com](pankajsharma13420@gmail.com)
