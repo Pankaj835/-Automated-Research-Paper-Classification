@@ -43,4 +43,4 @@ We welcome contributions from the community to make this project more robust and
 -Rohit Gomladu
 -Pankaj Sharma
 - Email: [rm73336136@gmail.com](rm73336136@gmail.com)
-- Email: [mohitmethi1000@gmail.com](pankajsharma13420@gmail.com)
+- Email: [pankajsharma13420@gmail.com](pankajsharma13420@gmail.com)
